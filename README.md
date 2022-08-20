@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I am currently working as a Data Science Intern at [**Ineueon**](https://ineuron.ai/). I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning.
+I am currently working as a Data Science Intern at [**Ineuron**](https://ineuron.ai/). I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning.
 
 
 ### Things I'm good at :fire:
