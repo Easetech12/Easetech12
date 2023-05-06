@@ -1,16 +1,16 @@
 ### Hi there 👋🏻 
-I am currently working as a Data Science Intern at [**Ineuron**](https://ineuron.ai/). I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning.
+I am currently working as a Data Engineer at [**Ineuron**](https://ineuron.ai/). I come with an extensive experience of working with different technologies including Azure, Spark Framework.
 
 
 ### Things I'm good at :fire:
 
-**Domain:** Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
+**Domain:** Data Wrangling, Data Visualization, and Data Warehousing.
 
 **Languages:**  Python, SQL, HTML, CSS.
 
 **Framework:** Flask, Tensorflow
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras, NLTK, AWS EC2, AWS S3, Lambda Functions.
+**Libraries & Tools:** .
 
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics.
 
