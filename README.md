@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I am currently working as a Data Engineer at [**Ineuron**](https://ineuron.ai/). I come with an extensive experience of working with different technologies including Azure, Spark Framework.
+I am currently working as a Data Engineer at [**abc**](https://abc.ai/). I come with an extensive experience of working with different technologies including Azure, Spark Framework.
 
 
 ### Things I'm good at :fire:
