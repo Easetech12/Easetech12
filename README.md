@@ -10,7 +10,7 @@ I am currently working as a Data Engineer at [**DataMinerz**]((https://dataminer
 
 **Framework:** Spark
 
-**Libraries & Tools:** .
+**Libraries & Tools:** Requests, JSON, DateTime, Pyspark
 
 **Tools:** Python, SQL, Databricks, Azure Data Services
 
