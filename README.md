@@ -1,18 +1,18 @@
 ### Hi there 👋🏻 
-I am currently working as a Data Engineer at [**abc**](https://abc.ai/). I come with an extensive experience of working with different technologies including Azure, Spark Framework.
+I am currently working as a Data Engineer at [**DataMinerz**]((https://dataminerz.net/)). I come with an extensive experience of working with different technologies including building & maintaining reliable data pipeline & design and developement of data warehouse.
 
 
 ### Things I'm good at :fire:
 
-**Domain:** Data Wrangling, Data Visualization, and Data Warehousing.
+**Domain:** ETL Data Pipeline and Data Warehousing.
 
-**Languages:**  Python, SQL, HTML, CSS.
+**Languages:**  Python, SQL
 
-**Framework:** Flask, Tensorflow
+**Framework:** Spark
 
 **Libraries & Tools:** .
 
-**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics.
+**Tools:** Python, SQL, Databricks, Azure Data Services
 
 ### How to reach me 📱 
 
