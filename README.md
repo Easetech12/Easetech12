@@ -1,10 +1,10 @@
 ### Hi there 👋🏻 
-I am currently working as a Data Engineer at [**DataMinerz**]((https://dataminerz.net/)). I come with an extensive experience of working with different technologies including building & maintaining reliable data pipeline & design and developement of data warehouse.
+I am currently working as a Data Engineer at [**DataMinerz**]((https://dataminerz.net/)). I am an expert in designing & development of secure & scalable etl data pipelines (source - REST API) from scratch. I have hands on experience on Azure to Azure Data migration (Databricks Jobs, clusters, notebook code, acls, data, tables, dashboard, views, kv secrets) & working on data warehousing.
 
 
 ### Things I'm good at :fire:
 
-**Domain:** ETL Data Pipeline and Data Warehousing.
+**Domain:** ETL Data Pipeline, Data migration and Data Warehousing.
 
 **Languages:**  Python, SQL
 
