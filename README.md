@@ -1,6 +1,8 @@
 ### Hi there 👋🏻 
 I am currently working as a Data Engineer at [**DataMinerz**]((https://dataminerz.net/)). I am an expert in designing & development of secure & scalable etl data pipelines (source - REST API) from scratch. I have hands on experience on Azure to Azure Data migration (Databricks Jobs, clusters, notebook code, acls, data, tables, dashboard, views, kv secrets) & working on data warehousing.
 
+Industry / Domain : Oil & gas, Real estate insurance trust
+
 
 ### Things I'm good at :fire:
 
